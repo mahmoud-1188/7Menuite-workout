@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="25dp"
+    android:layout_height="25dp"
+    android:id="@+id/tviteam"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="1dp"
+    android:textSize="14sp"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:background="@drawable/tviteam"
+    android:textColor="@color/black"
+    tools:text="1">
+
+
+</TextView>

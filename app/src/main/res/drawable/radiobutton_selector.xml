@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_checked="false" >
+
+        <shape>
+            <solid android:color="#86F6F3F3"/>
+            <corners android:radius="50dp"/>
+        </shape>
+    </item>
+
+    <item android:state_checked="true"
+
+        android:drawable="@drawable/radeobutton_backgrount">
+
+    </item>
+
+
+</selector>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="#CAC2C2">
+
+    <item android:id="@+id/mask">
+        <shape android:shape="ring"
+            android:useLevel="false"
+            android:thicknessRatio="3"
+            android:innerRadius="0dp">
+            <solid android:color="@color/black"/>
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/statr_layout"/>
+</ripple>
